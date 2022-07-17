@@ -53,7 +53,6 @@ const start = () => {
     bot.setMyCommands([
         {command: '/start', description: 'Начало общения с ботом'},
         {command: '/get_lesson', description: 'Получить открытые уроки'},
-        {command: '/game', description: 'Получить открытые уроки'},
     ])
 
     bot.on('message', async msg => {
