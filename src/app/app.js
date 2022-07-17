@@ -9,7 +9,7 @@ const optionsCreator = (buttons) => {
     }
 }
 
-const bot = new TelegramApi(process.env.TOKEN, {polling: true});
+const bot = new TelegramApi('5312862661:AAHPYYDPJ5wwKcrqqR15HRuj7cm3-of8z44', {polling: true});
 
 const data = {
     1: {
