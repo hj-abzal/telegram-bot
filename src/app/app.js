@@ -34,7 +34,8 @@ const students = {
     'rakhymzhan_ff': 1,
     'SuanAbzal': 2,
     'ugagva': 1,
-    'Nakysbek': 2
+    'Nakysbek': 2,
+    'Aqs0ul': 1
 }
 
 const lesson1 = [
