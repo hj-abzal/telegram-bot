@@ -32,7 +32,9 @@ const students = {
     'ayan_rn': 1,
     'rs6avantc7': 1,
     'rakhymzhan_ff': 1,
-    'SuanAbzal': 1
+    'SuanAbzal': 1,
+    'ugagva': 1,
+    'Nakysbek': 2
 }
 
 const lesson1 = [
